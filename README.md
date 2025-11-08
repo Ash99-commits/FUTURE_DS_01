@@ -2,8 +2,8 @@
 
 ### 🎯 Internship Task 1 – Data Science & Analytics (Future Interns)
 **Track Code:** FUTURE_DS_01  
-**Project Title:** Superstore Sales Data Analysis Dashboard
-**Tool Used:** Microsoft Power BI   
+**Project Title:** Superstore Sales Data Analysis Dashboard  
+**Tool Used:** Power BI Desktop   
 **Created by:** Ashwani Kumar Patra
 
 ---
