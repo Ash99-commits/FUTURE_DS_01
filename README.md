@@ -74,10 +74,10 @@ This project demonstrates:
 ## 🖼️ Dashboard Preview  
 
 ### 1. Overview Page  
-![Overview Dashboard](Images/Overview.png)  
+![Overview Dashboard](https://github.com/Ash99-commits/FUTURE_DS_01/blob/f849f81e83f2cc84c9aaff7c0012c35a688caa30/Dashboard%20(Page%201).png)  
 
 ### 2. Sales Page  
-![Sales Dashboard](Images/sales.png)  
+![Sales Dashboard](https://github.com/Ash99-commits/FUTURE_DS_01/blob/f849f81e83f2cc84c9aaff7c0012c35a688caa30/Dashboard%20(Page%202).png)  
 
-### 3. Product Page 
-![Products & Customers Dashboard](Images/product.png)  
+### 3. Products & Customers Page 
+![Products & Customers Dashboard](https://github.com/Ash99-commits/FUTURE_DS_01/blob/f849f81e83f2cc84c9aaff7c0012c35a688caa30/Dashboard%20(Page%203).png)  
