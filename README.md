@@ -81,3 +81,18 @@ This project demonstrates:
 
 ### 3. Products & Customers Page 
 ![Products & Customers Dashboard](https://github.com/Ash99-commits/FUTURE_DS_01/blob/f849f81e83f2cc84c9aaff7c0012c35a688caa30/Dashboard%20(Page%203).png)  
+
+---
+
+## 🚀 How to Use  
+
+1. Download the repository.  
+2. Open the `Superstore Analysis.pbix` file in **Power BI Desktop**.  
+3. Explore interactive dashboards to analyze sales trends, profits, and customer behavior etc.  
+
+---
+
+## Author  
+Name: **Ashwani Kumar Patra**  
+Email ID: ashwanikumarpatraofficial@gmail.com
+
